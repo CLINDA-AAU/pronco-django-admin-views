@@ -1,3 +1,5 @@
+PCM-version of django-admin-views. Import of django-admin-views 0.8.0 on 2021-09-27.
+
 Overview
 ========
 
